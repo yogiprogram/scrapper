@@ -17,7 +17,7 @@ java -jar build/libs/scraper-1.0-SNAPSHOT.jar
 ````
 
 ##### Class Diagram
-![Class Diagram](consol_base_bot.png) 
+![Class Diagram](class_diagram.png) 
 
 ##### After running jar console base bot will open
 
