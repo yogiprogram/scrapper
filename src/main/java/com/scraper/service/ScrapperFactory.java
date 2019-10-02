@@ -11,7 +11,6 @@ public class ScrapperFactory {
   private static Map<String, ScraperService> regions = new HashMap<>();
 
   static {
-    // "https://www.thuisbezorgd.nl/en/order-takeaway-amsterdam-stadsdeel-binnenstad-1011"
     regions.put("thuisbezorgd", new ThuisbezorgdScraperServiceImpl());
   }
 
